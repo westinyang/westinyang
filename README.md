@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <div float="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=westinyang&show_icons=true&theme=dracula" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=westinyang&show_icons=true" height="180">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westinyang&langs_count=6&layout=compact&theme=dracula" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westinyang&langs_count=6&layout=compact" height="180" />
   </a>
 </div>
