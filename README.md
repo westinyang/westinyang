@@ -18,8 +18,15 @@ Here are some ideas to get you started:
 - 💻 I’m now an indie developer
 - 🌱 I’m currently learning `AndroidReverse` `GraalVM` `Golang` `Flutter`
 
+<!--
 ## 📊 My stats
+-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=westinyang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westinyang&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div float="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=westinyang&show_icons=true" height="180">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westinyang&langs_count=6&layout=compact" height="180" />
+  </a>
+</div>
