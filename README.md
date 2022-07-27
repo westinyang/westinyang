@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I’m now an indie developer
-- 🌱 I’m currently learning `AndroidReverse` `GraalVM` `Golang` `Flutter`
+- 🌱 I’m currently learning `Android Reverse` `GraalVM` `Golang` `Flutter`
 
 <!--
 ## 📊 My stats
