@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 I’m now an indie developer
-- 🌱 I’m currently learning `Android Reverse` `GraalVM` `Golang` `Flutter`
+- 💻 我是一名独立开发者
+- 🌱 我目前正在学习 `Android Reverse` `GraalVM` `Golang` `Flutter`
+- 🪐 欢迎加入我的知识星球 [码力全开](https://wx.zsxq.com/dweb2/index/group/88851411428422) `移动安全、Web开发和自动化等技术交流，优质开发者技术资讯和开源项目分享！`
 
 <!--
 ## 📊 My stats
