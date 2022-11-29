@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💻 我是一名独立开发者
 - 🌱 我目前比较关注的技术 `Android Reverse` `GraalVM` `Golang` `Flutter`
-- 🪐 我的编程技术知识星球 [码力全开](https://wx.zsxq.com/dweb2/index/group/88851411428422) `移动安全、Web开发和自动化等技术干货分享，优质开发者技术资讯和开源项目分享！`
+- 🪐 我的编程技术知识星球 [码力全开](https://docs.qq.com/doc/DQVlkcnlQUEFiQ3Rl) `移动安全、Web开发和自动化等技术干货分享，优质开发者技术资讯和开源项目分享！`
 
 ## 📊 统计
 
