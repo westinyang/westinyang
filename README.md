@@ -1,23 +1,11 @@
-## 👋 你好
+## 👋 I'm westinyang
 
-<!--
-**westinyang/westinyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 💻 我是一名独立开发者
-- 🌱 我目前比较关注的技术 `OpenHarmony` `AndroidReverse` `GraalVM` `Golang` `Flutter`
-- 🪐 我的编程技术知识星球 [码力全开](https://docs.qq.com/doc/DQVlkcnlQUEFiQ3Rl) `移动安全、Web开发和自动化等技术干货分享，优质开发者技术资讯和开源项目分享！`
+- 💻 独立开发者，开鸿派创始人
+- 🌱 关注技术：OpenHarmony、Android、Java、GraalVM、Golang
+- 👨‍💻 个人介绍：[个人简介](https://kaihongpai.feishu.cn/wiki/CqWLwJRadibxztkrIWZcogWxnXd)
+- 🎖️ 代表作品：[F-OH](https://gitee.com/westinyang/f-oh) | [HapViewer](https://gitee.com/westinyang/hap-viewer) | [OHScrcpy](https://www.bilibili.com/read/cv24125018/) | [FaceRecognitionService](https://gitee.com/westinyang/face-recognition-service) | [JavaGraalvmStart](https://gitee.com/westinyang/java-graalvm-start) | [UnpackerPanel](https://github.com/westinyang/unpacker-panel)
+- 🎬 视频创作：[B站主页](https://space.bilibili.com/74433635)
+- 🪐 知识星球：[开鸿派](https://kaihongpai.feishu.cn/wiki/Y4ajwv6uFi73AwkLxgbcdwctn2g)
 
 ## 📊 统计
 
