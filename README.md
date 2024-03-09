@@ -1,6 +1,6 @@
 ## 👋 I'm westinyang
 
-- 💻 独立开发者，开鸿派创始人
+- 💻 自由开发者，开源软件开发者，开鸿派创始人
 - 🌱 关注技术：OpenHarmony、Android、Java、GraalVM、Golang
 - 👨‍💻 个人简介：[I'm westinyang](https://kaihongpai.feishu.cn/wiki/CqWLwJRadibxztkrIWZcogWxnXd)
 - 🎖️ 代表作品：[F-OH](https://gitee.com/westinyang/f-oh) | [HapViewer](https://gitee.com/westinyang/hap-viewer) | [OHScrcpy](https://www.bilibili.com/read/cv24125018/) | [FaceRecognitionService](https://gitee.com/westinyang/face-recognition-service) | [JavaGraalvmStart](https://gitee.com/westinyang/java-graalvm-start) | [UnpackerPanel](https://github.com/westinyang/unpacker-panel)
