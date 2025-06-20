@@ -5,7 +5,6 @@
 - 👨‍💻 个人简介：[I'm westinyang](https://kaihongpai.feishu.cn/wiki/CqWLwJRadibxztkrIWZcogWxnXd)
 - 🎖️ 代表作品：[F-OH](https://gitee.com/westinyang/f-oh) | [HapViewer](https://gitee.com/westinyang/hap-viewer) | [OHScrcpy](https://www.bilibili.com/read/cv24125018/) | [FaceRecognitionService](https://gitee.com/westinyang/face-recognition-service) | [JavaGraalvmStart](https://gitee.com/westinyang/java-graalvm-start) | [UnpackerPanel](https://github.com/westinyang/unpacker-panel)
 - 🎬 视频创作：[B站主页](https://space.bilibili.com/74433635)
-- 🪐 知识星球：[码力全开](https://kaihongpai.feishu.cn/wiki/Y4ajwv6uFi73AwkLxgbcdwctn2g)
 
 ## 📊 统计
 
